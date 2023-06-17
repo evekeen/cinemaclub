@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Good Films"
+content: |
+  Are you in a search of good movie?
+  Tired of watching blockbusters?
+  <p>
+  Immerse yourself in the world of independent cinema, join the Boston Cinema Club, and embark on an unforgettable cinematic journey under the open sky.
+  </p>
+button: 
+  label: "Enjoy good films"
+  link: "https://forms.gle/BFfqhesB7DczcPBp7"
+image: "images/lost-in-translation.jpg"

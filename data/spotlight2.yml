@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Community"
+content: |
+  By joining our club, you become part of a vibrant community that fosters intellectual growth, cultural appreciation, and lasting friendships.
+button: 
+  label: "Meet people"
+  link: "https://forms.gle/BFfqhesB7DczcPBp7"
+image: "images/friends.jpg"

@@ -1,0 +1,20 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Boston Film Club"
+subtitle: |
+  We watch good films together outdoors in Boston. After the movie we have a discussion.
+content : |
+  <p>
+  Welcome to the <strong>Boston Film Club</strong>, where movie lovers and enthusiasts come together to celebrate the magic of independent cinema under the starry night sky!
+  </p><p>
+  If you have a deep appreciation for thought-provoking stories, captivating performances, and the power of film as an art form, this club is tailor-made for you.
+  Our exclusive focus on non-mainstream and independent films sets us apart, offering a unique opportunity to discover hidden gems and explore a diverse range of cinematic voices.
+  </p><p>
+  Picture yourself surrounded by fellow film aficionados in picturesque outdoor locations across Boston, where the enchanting ambiance enhances the movie-watching experience. 
+  After each screening, engage in lively discussions, dissecting the themes, symbolism, and craftsmanship that make these movies truly exceptional.
+  </p>
+button:
+  label : "Join the club"
+  link : "https://forms.gle/BFfqhesB7DczcPBp7"
+image : "images/cinema-background.jpg"
+

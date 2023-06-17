@@ -1,3 +1,42 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Boston Film Club"
+copyright = "{year}"
+theme = "hugo-story"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+baseURL = "https://bostonfilm.club"
+publishDir = "public"
+
+# Remote
+#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#publishDir = "//centos/sites/hugodev/hugostory/"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+    description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+    logo = "images/banner.jpg"
+    favicon = true
+
+[Params.social]
+    instagram = "https://www.instagram.com/bostonfilmclub/"
