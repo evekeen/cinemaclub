@@ -34,8 +34,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-    description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
-    logo = "images/banner.jpg"
+    description = "We watch good films together outdoors in Boston. After the movie we have a discussion."
+    logo = "images/bfc-logo.jpg"
     favicon = true
 
 [Params.social]
