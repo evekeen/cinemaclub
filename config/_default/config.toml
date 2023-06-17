@@ -14,6 +14,7 @@ relativeURLs = "true"
 # Local
 baseURL = "/"
 publishDir = "public"
+title = "Boston Film Club"
 
 # Remote
 #baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
