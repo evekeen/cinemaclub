@@ -27,7 +27,7 @@ publishDir = "public"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-# googleAnalytics = "your-google-analytics-id"
+googleAnalytics = "G-B08FMLCVX6"
 
 ## -----------------------------------------------
 ## Site Parameters
@@ -39,4 +39,5 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
     favicon = true
 
 [Params.social]
-    instagram = "https://www.instagram.com/bostonfilmclub/"
+    instagram = "https://www.instagram.com/bostonfilm.club/"
+    tiktok = "https://www.tiktok.com/@bostonfilm.club"
