@@ -33,6 +33,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
+description = "We watch good films together outdoors in Boston. After the movie we have a discussion."
 
 [Params.social]
 

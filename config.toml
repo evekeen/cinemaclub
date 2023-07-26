@@ -34,9 +34,12 @@ googleAnalytics = "G-B08FMLCVX6"
 ## -----------------------------------------------
 
 [Params]
-    description = "We watch good films together outdoors in Boston. After the movie we have a discussion."
-    logo = "images/bfc-logo.jpg"
-    favicon = true
+description = "We watch good films together outdoors in Boston. After the movie we have a discussion."
+logo = "images/bfc-logo.jpg"
+favicon = true
+title='Boston Film Club'
+author="Alexander Ivkin"    
+images = ["images/bfc-logo.jpg"]
 
 [Params.social]
     instagram = "https://www.instagram.com/bostonfilm.club/"
