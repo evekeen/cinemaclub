@@ -1,0 +1,17 @@
+<!-- Spotlight -->
+<section class="spotlight {{ .style }}" {{ with .id }} id="{{ . }}" {{ end }}>
+    <div class="content">
+        <h2>Our past screenings</h2>
+        {{ range .events }}
+        <div style="display: flex; flex-direction: row; padding: 10px;">
+            {{ with .image }}
+            <img src="{{ . }}" alt="" style="max-width: 200px; height: auto; padding-right: 20px" />
+            {{ end }}
+            <div>
+                <h3><b>{{ .title }}</b> <i>{{ .director }}</i></h3>
+                {{ with .location }}<p>Location: {{ . | safeHTML }}</p>{{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>

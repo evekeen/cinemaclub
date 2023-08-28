@@ -1,0 +1,20 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title: "Past Screenings"
+events:
+  - title: "Paris, Texas"
+    director: "Wim Wenders"
+    location: "Christian Herter Park, by the Charles River"
+    image: "https://resizing.flixster.com/KP9kjo3VvVsPvr9hW77-9W0WnhI=/206x305/v2/https://flxt.tmsimg.com/assets/p8560_p_v8_aa.jpg"
+  - title: "Pauline at the Beach"
+    director: "Eric Rohmer"
+    location: "Charles River Esplanade in Back Bay"
+    image: "https://resizing.flixster.com/OhNv2_QtQBNA5DdINwkXMMtAo18=/206x305/v2/https://flxt.tmsimg.com/assets/p12402_p_v8_aa.jpg"
+  - title: "Crimes and Misdeameanors"
+    director: "Woody Allen"
+    location: "Fisher Hill Reservoir Park in Brookline"
+    image: "https://resizing.flixster.com/FfkHTAXW3jWbhsudhZqn5di936I=/206x305/v2/https://flxt.tmsimg.com/assets/p11899_p_v8_aa.jpg"
+button:
+  label: "Enjoy good films"
+  link: "https://fqf76afg1l9.typeform.com/to/aG1qYkhs"
+image: "images/lost-in-translation.jpg"
