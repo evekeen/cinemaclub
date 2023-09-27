@@ -14,6 +14,10 @@ events:
     director: "Woody Allen"
     location: "Fisher Hill Reservoir Park in Brookline"
     image: "https://resizing.flixster.com/FfkHTAXW3jWbhsudhZqn5di936I=/206x305/v2/https://flxt.tmsimg.com/assets/p11899_p_v8_aa.jpg"
+  - title: "The Graduate"
+    director: "Mike Nichols"
+    location: "Red Rock Park in Lynn, MA"
+    image: "/images/movies/the-graduate.jpg"
 button:
   label: "Enjoy good films"
   link: "https://fqf76afg1l9.typeform.com/to/aG1qYkhs"
